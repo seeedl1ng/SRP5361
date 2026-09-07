@@ -1,4 +1,4 @@
-THEY License v1.1
+THEY License v1.2
 
 Copyright (c) 2025-2026 seeedl1ng
 
@@ -39,3 +39,10 @@ project and does not modify or replace the license terms of any
 third-party components.
 
 This project is provided "as is", without warranty of any kind.
+
+### Third-Party Patches
+
+Patches for third-party software do not grant any additional rights to
+the original software. Third-party software remains subject to its
+respective license and copyright.
+
